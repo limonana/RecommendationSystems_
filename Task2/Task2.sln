@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{3E61C3AC-2CCB-4C56-98C8-AA64E9ACD80C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMethods", "TestMethods\TestMethods.csproj", "{78DA828A-A99F-4B49-91B7-89510414CEA0}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://fedidash.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConsoleApp\\ConsoleApp.csproj
+		SccProjectName1 = ConsoleApp
+		SccLocalPath1 = ConsoleApp
+		SccProjectUniqueName2 = TestMethods\\TestMethods.csproj
+		SccProjectName2 = TestMethods
+		SccLocalPath2 = TestMethods
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E61C3AC-2CCB-4C56-98C8-AA64E9ACD80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E61C3AC-2CCB-4C56-98C8-AA64E9ACD80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E61C3AC-2CCB-4C56-98C8-AA64E9ACD80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E61C3AC-2CCB-4C56-98C8-AA64E9ACD80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DA828A-A99F-4B49-91B7-89510414CEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DA828A-A99F-4B49-91B7-89510414CEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DA828A-A99F-4B49-91B7-89510414CEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DA828A-A99F-4B49-91B7-89510414CEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
